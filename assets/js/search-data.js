@@ -82,13 +82,6 @@ ninja.data = [{
           window.open("mailto:%71%68%39%37@%6D%61%74%68.%72%75%74%67%65%72%73.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
