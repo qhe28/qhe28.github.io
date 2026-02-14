@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year PhD candidate in mathematics at Rutgers University--New Brunswick. 
-I am interested in probability theory and statistical physics. 
+I am a fifth-year PhD candidate in mathematics at Rutgers University--New Brunswick.
+I am interested in probability theory and statistical physics.
 My advisors are [Ian Jauslin](http://ian.jauslin.org) and [Joel Lebowitz](https://cmsr.rutgers.edu/people-cmsr/joel-lebowitz).
