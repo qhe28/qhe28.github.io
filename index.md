@@ -11,5 +11,3 @@ I am a fifth-year PhD candidate in mathematics at Rutgers University–New Bruns
 Probability theory, statistical physics
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
