@@ -29,9 +29,9 @@ main:
 
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
-    journal_short: arXiv
+    journal_short: J. Phys. A
     journal: "Journal of Physics A: Mathematical and Theoretical"
-    pdf: https://arxiv.org/pdf/2510.24825
+    pdf: https://doi.org/10.1088/1751-8121/ae280e
 
 # @article{he2025upperboundsconnectiveconstant,
 #       title={Upper bounds for the connective constant of weighted self-avoiding walks}, 
