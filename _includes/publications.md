@@ -21,11 +21,14 @@
       <div class="periodical"><em>{{ link.journal }}</em>
       </div>
     <div class="links">
-      {% if link.arXiv %} 
-      <a href="{{ link.arXiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% if link.abstract %} 
+      <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px; cursor: pointer;" onclick="var el = document.getElementById('abs-{{ link.title | slugify }}'); el.style.display = (el.style.display === 'none') ? 'block' : 'none';">Abstract</a>
       {% endif %}
       {% if link.doi %} 
       <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% endif %}
+      {% if link.arXiv %} 
+      <a href="{{ link.arXiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
