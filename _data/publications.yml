@@ -7,6 +7,7 @@ main:
     arXiv: https://arxiv.org/abs/2602.05294
     image: ./assets/img/post-transition.png
     # notes: "image: Monte Carlo simulation by Barnes (2010)"
+    abstract: "I generalize our criteria for high-density crystallization in hard-core lattice systems to allow for (a) a general measure of local order and (b) multiple particle shapes. Consequently, every polyomino with a finite number of tilings (with rotations and possibly reflections) crystallizes at high densities."
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
@@ -14,6 +15,7 @@ main:
     journal: arXiv Preprint, 2025
     arXiv: https://arxiv.org/abs/2511.23437
     image: ./assets/img/dimer_post-transition.png
+    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann and Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas and Peled (2025) for the 2×2 hard square model."
 
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
@@ -21,6 +23,7 @@ main:
     journal: arXiv Preprint, 2025
     arXiv: https://arxiv.org/abs/2510.24825
     image: ./assets/img/phase_diagram.tikz.png
+    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin and Shlosman (1981)."
 
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
@@ -29,6 +32,7 @@ main:
     arXiv: https://arxiv.org/abs/2508.01993
     doi: https://doi.org/10.1088/1751-8121/ae280e
     image: ./assets/img/placeholder.png
+    abstract: "Extending an earlier work by Alm (1993), I develop a method for deriving upper bounds on the connective constant of weighted self-avoiding walks, with implications for the convergence of the corresponding anisotropic generating functions. A Python implementation of the method is publicly available."
 
   - title: Analyticity for locally stable hard-core gases via recursion
     authors: <strong>Qidong He</strong>
@@ -37,6 +41,7 @@ main:
     arXiv: https://arxiv.org/abs/2405.04451
     doi: https://doi.org/10.1007/s10955-025-03435-8
     image: ./assets/img/gas.png
+    abstract: "Extending the recursion method developed by Michelen and Perkins (2025), I expand the known range of activities for which a continuum system of hard spheres with an additional attractive pair interaction is in the gas phase. In the high-temperature regime, the improvement surpasses the classical Penrose–Ruelle bound by at least a factor of e^2."
 
   - title: High-fugacity expansion and crystallization in non-sliding hard-core lattice particle models without a tiling constraint
     authors: <strong>Qidong He</strong>, Ian Jauslin
@@ -45,6 +50,7 @@ main:
     arXiv: https://arxiv.org/abs/2402.02615
     doi: https://doi.org/10.1007/s10955-024-03349-x
     image: ./assets/img/heptacube_tile1.png
+    abstract: "We prove that a large class of hard-core lattice particle models crystallize at high densities, using a novel characterization of local order based on discrete Voronoi diagrams."
 
   - title: Counting conjugacy classes of elements of finite order in exceptional Lie groups
     authors: Tamar Friedmann, <strong>Qidong He</strong>
