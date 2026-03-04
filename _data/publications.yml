@@ -5,13 +5,15 @@ main:
     journal_short: arXiv
     journal: arXiv preprint
     pdf: https://arxiv.org/pdf/2602.05294v2
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/post-transition.png
+    notes: image by Barnes (2010)
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
     journal_short: arXiv
     journal: arXiv preprint
     pdf: https://arxiv.org/pdf/2511.23437v2
+    image: ./assets/img/dimer_post-transition.png
 
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
@@ -30,6 +32,7 @@ main:
     journal_short: JSP
     journal: Journal of Statistical Physics, 2025
     pdf: https://doi.org/10.1007/s10955-025-03435-8
+    image: ./assets/img/gas.png
 
   - title: High-fugacity expansion and crystallization in non-sliding hard-core lattice particle models without a tiling constraint
     authors: <strong>Qidong He</strong>, Ian Jauslin
