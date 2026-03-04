@@ -52,8 +52,8 @@ main:
     journal: Combinatorial Theory, 2024
     arXiv: https://arxiv.org/abs/2210.15737
     doi: https://doi.org/10.5070/C64163850
-    notes: undergraduate research
     image: ./assets/img/placeholder.png
+    undergrad: true
 
   - title: Links, bridge number, and width trees
     authors: <strong>Qidong He</strong>, Scott Taylor
@@ -61,5 +61,5 @@ main:
     journal: Journal of the Mathematical Society of Japan, 2023
     arXiv: https://arxiv.org/abs/2005.12388
     doi: https://doi.org/10.2969/jmsj/86158615
-    notes: undergraduate research
     image: ./assets/img/placeholder.png
+    undergrad: true
