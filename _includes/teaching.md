@@ -1,5 +1,7 @@
 ## Teaching
 
+I am not teaching in the 2025–26 academic year.
+
 | Semester | Course | Role |
 |:---:|---|---|
 | S25 | 01:640:250 (Introductory Linear Algebra) | TA-at-Large |
