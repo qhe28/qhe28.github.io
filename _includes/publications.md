@@ -42,6 +42,9 @@
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
+      {% if link.undergrad %} 
+      <span style="color: #6c757d; font-style: italic;">(undergraduate research)</span>
+      {% endif %}
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
