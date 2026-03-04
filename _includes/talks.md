@@ -6,7 +6,7 @@
 - *Random packings*. Rutgers Graduate Student Combinatorics Seminar, Rutgers University. Apr 2, 2025.
 - *Analyticity for classical hard-core gases via recursion*. 126th Statistical Mechanics Conference, Rutgers University. May 20, 2024.  (short talk)
 - *Crystallization phenomenon in a large class of hard-core lattice particle systems*. 124th Statistical Mechanics Conference, Rutgers University. May 8, 2023.  (short talk)
-- *Counting conjugacy classes of elements of finite order in G_2*. Colby Liberal Arts Symposium (CLAS), Colby College. Apr 28, 2021.  (undergraduate research)
+- *Counting conjugacy classes of elements of finite order in G~2~*. Colby Liberal Arts Symposium (CLAS), Colby College. Apr 28, 2021.  (undergraduate research)
 - *Knot invariants*. North Shore Undergraduate Math Conference, Gordon College. Apr 6, 2019.  (undergraduate research)
 - *Knot invariants*. Mathematics and Statistics Colloquium, Colby College. Sep 24, 2018.  (undergraduate research)
 
