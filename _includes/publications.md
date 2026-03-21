@@ -5,8 +5,8 @@
 
 {% for link in site.data.publications.main %}
 
-<li>
-<div class="pub-row">
+<li style="margin-bottom: 15px;">
+<div class="pub-row" style="display: flex;">
   <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
@@ -63,7 +63,6 @@
   </div>
 </div>
 </li>
-<br>
 
 {% endfor %}
 
