@@ -1,0 +1,38 @@
+<style>
+/* Creates a responsive grid that automatically wraps on smaller screens */
+.gallery-grid {
+  display: grid;
+  /* Auto-fill creates as many 250px columns as will fit on the screen */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+/* Styles individual cards */
+.gallery-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  overflow: hidden; /* Keeps image corners rounded */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Forces images to be the same height without stretching them */
+.gallery-item img {
+  width: 100%;
+  height: 200px; 
+  object-fit: cover; /* This acts like a smart crop for irregular images */
+  display: block;
+}
+
+/* Styles the caption box */
+.gallery-caption {
+  padding: 12px;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  text-align: center;
+  background-color: #f8f9fa;
+  flex-grow: 1; /* Pushes the caption to fill the bottom of the card */
+}
+</style>
