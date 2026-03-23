@@ -1,3 +1,11 @@
+- master_title: "Crystallization of the Z-pentomino"
+  master_caption: "Taken from the dissertation of Barnes (2010)"
+  subfigures:
+    - image: /assets/img/pre-transition.png
+      title: "Pre transition"
+    - image: /assets/img/post-transition.png
+      title: "Post transition"
+
 - image: /assets/img/truncated_square_big.tikz.jpg
   title: "Truncated square tiling"
   caption: "As an application of my criteria for crystallization, I identified the truncated square tiling as one of two possible crystal structures (up to translations) in a mixture of diamonds and octagons on the square lattice."
