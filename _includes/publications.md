@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 {% for link in site.data.publications.main %}
-<li style="margin-bottom: 15px;">
+<li id="paper-{{ forloop.rindex }}" style="margin-bottom: 15px;">
 <div class="pub-row" style="display: flex; min-height: auto">
   <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
     {% if link.image %} 
