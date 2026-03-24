@@ -23,8 +23,7 @@
 
 .gallery-item img {
   width: 100%;
-  height: 200px; 
-  object-fit: cover;
+  height: auto; 
   display: block;
 }
 
@@ -35,11 +34,4 @@
   text-align: center;
   background-color: #f8f9fa;
   flex-grow: 1;
-}
-
-/* Make it responsive for mobile phones */
-@media (max-width: 600px) {
-  .subfigures-wrapper {
-    flex-direction: column; /* Stacks subfigures vertically on small screens */
-  }
 }
