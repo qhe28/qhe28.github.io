@@ -10,6 +10,8 @@ I am a fifth-year PhD candidate in mathematics and an SAS fellow at Rutgers Univ
 
 Probability theory, statistical physics, random packings
 
+{% include_relative _includes/preprints.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/teaching.md %}
