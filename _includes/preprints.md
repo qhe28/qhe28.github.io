@@ -19,7 +19,23 @@
   </div>
   <!-- <div class="col-sm-11" style="position: relative;padding-right: 15px;padding-left: 20px;align-self: flex-start;"> -->
   <div style="flex: 1; position: relative; padding-right: 15px; padding-left: 10px; align-self: flex-start;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% if link.doi and link.doi != "" %}
+        {% assign url = link.doi %}
+      {% elsif link.arXiv and link.arXiv != "" %}
+        {% assign url = link.arXiv %}
+      {% elsif link.pdf and link.pdf != "" %}
+        {% assign url = link.pdf %}
+      {% else %}
+        {% assign url = nil %}
+      {% endif %}
+      
+      <div class="title">
+        {% if url %}
+          <a href="{{ url }}">{{ link.title }}</a>
+        {% else %}
+          {{ link.title }}
+        {% endif %}
+      </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.journal }}</em>
       </div>
