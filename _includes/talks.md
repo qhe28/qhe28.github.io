@@ -1,5 +1,6 @@
 ## Talks
 
+- *High-density crystallization of polyomino fluids on the square lattice*. 130th Statistical Mechanics Conference, Rutgers University. May 11, 2026. <span style="color: #6c757d; font-style: italic;">(short talk)</span>
 - *Crystalline order in random packings of Z-pentominoes on the square lattice*. Rutgers Graduate Student Combinatorics Seminar, Rutgers University. Mar 11, 2026.
 - [*Phase transitions in hard-core models of statistical mechanics*](assets/files/defense.pdf). Ph.D. defense, Rutgers University. Feb 26, 2026.
 - *Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb*. 129th Statistical Mechanics Conference, Rutgers University. Dec 16, 2025. <span style="color: #6c757d; font-style: italic;">(short talk)</span>
